@@ -1,7 +1,5 @@
 # AI-Driven-Background-Substitution-Web-Application
 
-!Background Editing
-
 In the digital age, manipulating images has become increasingly sophisticated. From simple filters to complex deep learning algorithms, the tools available to alter images are vast and powerful. One such advancement is the combination of Stable Diffusion and Self-Attention Mechanism (SAM), which allows for the seamless swapping of backgrounds in images.
 
 ## Introduction to the Project
